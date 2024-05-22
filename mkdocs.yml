@@ -2,7 +2,7 @@ site_name: Pringman990
 site_url: https://pringman990.github.io/
 
 # Might want to delete line bellow??
-index_page: docs/Tasks.md
+index_page: docs/Index.md
 theme:
     name: material
     palette:
